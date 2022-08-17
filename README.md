@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ayanared
-- 👀 I’m interested in ... tarot
-- 🌱 I’m currently learning ... the best way to scale systems.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in ... Ruby on Rails, Golang, ALL things Tarot!
+- 🌱 I’m currently learning ... cello, and French
+- 💞️ I’m looking to collaborate on ... scaling systems, and creating safe spaces
 
 <!---
 ayanared/ayanared is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
